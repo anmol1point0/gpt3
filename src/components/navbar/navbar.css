@@ -45,11 +45,6 @@
     margin: 0 2rem
 }
 
-.gpt3__navbar-menu-container-links a,
-.gpt3__navbar-links-container a {
-    text-decoration: none;
-}
-
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu-container button {
 
